@@ -1,0 +1,18 @@
+
+//@theme "/usr/share/rofi/themes/solarized_alternate.rasi"
+
+//@theme "/usr/share/rofi/themes/purple.rasi"
+
+//@theme "/usr/share/rofi/themes/sidebar.rasi"
+
+//@theme "/usr/share/rofi/themes/style.rasi"
+
+//@theme "/usr/share/rofi/themes/solarized_alternate.rasi"
+
+//@theme "/usr/share/rofi/themes/sidebar.rasi"
+
+//@theme "~/.local/share/rofi/themse"
+
+//@theme "/usr/share/rofi/themes/sidebar.rasi"
+
+@theme "/home/row/.local/share/rofi/themes/row_block.rasi"
